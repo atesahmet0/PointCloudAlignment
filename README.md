@@ -1,4 +1,4 @@
 Point cloud alignment pipeline.
 
-`pip install open3d`
+`pip install pcl`
 `pip install numpy` or `np` idk
